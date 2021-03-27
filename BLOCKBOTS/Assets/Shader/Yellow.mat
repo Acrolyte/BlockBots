@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Yellow
+  m_Shader: {fileID: -6465566751694194690, guid: 2766c47d14fb53440bd835cf19234cea, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_1A9548EE: 0.9
+    m_Colors:
+    - Color_C30F6803: {r: 2.1523743, g: 2.1523743, b: 0, a: 0}
+    - Vector2_50DF836E: {r: 50, g: 50, b: 0, a: 0}
+  m_BuildTextureStacks: []
